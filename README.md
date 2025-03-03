@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Michael welcome !
-## - I'm a passionate data analyst, constantly seeking new challenges.
-## - I'm also co-founder of a rising and promising app called Barakoo in Côte d'Ivoire.
-## - Looking for the right team to bring my energy and motivation to.
+- I'm a passionate data analyst, constantly seeking new challenges.
+- I'm also co-founder of a rising and promising app called Barakoo in Côte d'Ivoire.
+- Looking for the right team to bring my energy and motivation to.
 <!--
 **MichaelDesjardins/MichaelDesjardins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
