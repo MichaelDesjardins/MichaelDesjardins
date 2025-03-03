@@ -1,5 +1,6 @@
-# Hi there 👋 I'm Michael welcome !
-- I'm a passionate data analyst, constantly seeking new challenges.
+# Hi there 👋 welcome !
+## I'm Michael, a passionate Python expert specializing in data analytics with platforms such as Pandas, Matplotlib, Looker Studio, and more
+- I love what I do and am constantly seeking new challenges.
 - I'm also co-founder of a rising and promising app called Barakoo in Côte d'Ivoire.
 - Looking for the right team to bring my energy and motivation to.
 <!--
